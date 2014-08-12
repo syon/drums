@@ -1,7 +1,7 @@
 syon/drums project
 ==================
 
-## Mission
+### Mission
 
 ドラム演奏の UX を向上させるためのプロジェクト。
 
@@ -9,7 +9,7 @@ syon/drums project
 - 場所を問わず練習したい、演奏を楽しみたい
 
 
-## Target & Solution
+### Target & Solution
 
 - ドラム初心者やライトユーザ
     - お金をかけず、場所を選ばず、わかりやすく
@@ -19,7 +19,7 @@ syon/drums project
     - [drummania - Wikipedia](http://ja.wikipedia.org/wiki/Drummania)
 
 
-## Surroundings
+### Surroundings
 
 - 電子ドラム
     - [ドラム（Vドラム）・パーカッション :: ローランド](http://www.roland.co.jp/V-Drums/)
@@ -32,10 +32,31 @@ syon/drums project
     - 派生: DTXManiaXG, DTXHD
 
 
-## Problems
+### Problems
 
 - 電子ドラム
     - [電子ドラムは買ってはいけない！！](https://sites.google.com/site/nobuyedrums/)
 
 - DTXMania
     - Windows Only
+
+
+### Ideas
+
+- [MIDI - syon/wiki](http://syon-wiki.herokuapp.com/MIDI)  
+  Web と MIDI の親和性が高まっている
+
+- [Leap - AirDrum - YouTube](https://www.youtube.com/watch?v=xdm_2FO44ug)  
+  「空中で手を止める」のはよろしくないが、音を一切立てない点においては参考になる  
+
+- ポータビリティの観点からも、ドラムの形状をしている必要は全くない
+    - 仮想ドラムとして重要なのは配置と跳ね返り
+        - 楽器を叩く箇所や叩き方の微妙な違いは初心者の域を超えている
+
+- 静音性
+    - 自宅での演奏において最重要視される
+
+- 練習におけるフィードバック
+    - ゲーム化はこれを解決している
+    - 上位者による指導の要素が薄い
+
