@@ -49,6 +49,9 @@ syon/drums project
 - [Leap - AirDrum - YouTube](https://www.youtube.com/watch?v=xdm_2FO44ug)  
   「空中で手を止める」のはよろしくないが、音を一切立てない点においては参考になる  
 
+- Aerodrums  
+  [スティックとPCがあれば楽器がなくてもドラムが演奏できる「Aerodrums」 - GIGAZINE](http://gigazine.net/news/20141011-aerodrums1/)
+
 - ポータビリティの観点からも、ドラムの形状をしている必要は全くない
     - 仮想ドラムとして重要なのは配置と跳ね返り
         - 楽器を叩く箇所や叩き方の微妙な違いは初心者の域を超えている
